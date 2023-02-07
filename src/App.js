@@ -1,8 +1,5 @@
-import Draggable from 'react-draggable'
 import React, {useEffect, useState} from 'react';
-import s from "./App.module.css"
-import{ v4 } from 'uuid'
-import {randomColor} from 'randomcolor'
+
 
 
 const App = () => {
