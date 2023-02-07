@@ -52,7 +52,6 @@ const App = () => {
       <div className={s.app}>
         <div className={s.wrapper}>
           <input
-
               value={item}
               type="text"
               placeholder={"Enter something..."}
